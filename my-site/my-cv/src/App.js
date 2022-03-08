@@ -1,12 +1,11 @@
 import "./App.css";
 import "./index.css";
-import Home from "./ProtfolioContainer/Home/Home";
+import ProtfolioContainer from "./ProtfolioContainer/PortfolioContainer";
 
 function App() {
-  console.log("Hello World!!!");
   return (
     <div>
-      <Home></Home>
+      <ProtfolioContainer />
     </div>
   );
 }
