@@ -20,6 +20,7 @@
 .header-options {
   display: flex;
   align-items: center;
+
 }
 .header-option {
   font-size: 16px;

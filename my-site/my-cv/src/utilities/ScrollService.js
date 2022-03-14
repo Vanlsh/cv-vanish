@@ -24,16 +24,16 @@ export default class ScrollService {
   isElementInView = (elem, type) => {
     let rec = elem.getBoundingClientRect();
     let elementTop = rec.top;
-    let elementBotton = rec.Botton;
+    let elementButton = rec.Button;
 
-    let partaillyVisible =
-      elementTop < window.innerHeight && elementBotton >= 0;
+    let partiallyVisible =
+      elementTop < window.innerHeight && elementButton >= 0;
     let completelyVisible =
-      elementTop >= 0 && elementBotton <= window.innerHeight;
+      elementTop >= 0 && elementButton <= window.innerHeight;
 
     switch (type) {
       case "partial":
-        return partaillyVisible;
+        return partiallyVisible;
       case "complete":
         return completelyVisible;
       default:
@@ -61,7 +61,7 @@ export default class ScrollService {
         }
         if (fullyVisible) {
           ScrollService.currentScreenBroudCaster.next({
-            screenInVeiw: screen.screen_name,
+            screenInView: screen.screen_name,
           });
           break;
         }
