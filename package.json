@@ -1,0 +1,31 @@
+{
+  "name": "cv-vanish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix my-cv",
+    "dev": "concurrently \"npm run  server\" \"npm run client\"",
+    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanlsh/cv-vanish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanlsh/cv-vanish/issues"
+  },
+  "homepage": "https://github.com/Vanlsh/cv-vanish#readme",
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15"
+  }
+}
