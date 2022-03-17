@@ -3,7 +3,7 @@ const nodemailer = require('nodemailer');
 
 router.post('/contact', (req,res) => {
     let data = req.body
-    if(data.name.length === 0 || data.email.length || data.message.length){
+    if(data.name.length === 0 || data.email.length === 0 || data.message.length === 0){
         return res.json({msg: "please fill all the field"})
     }
 
@@ -11,15 +11,15 @@ router.post('/contact', (req,res) => {
             service: 'Gmail',
             port:465,
             auth:{
-                user: 'iparan8000@gmail.com',
+                user: 'iparan80000@gmail.com',
                 pass:'Iparan_80'
             }
         })
 
         let mailOption = {
             from: data.email,
-            to:'iparan8000@gmail.com',
-            subject: `message from ${data.name}`,
+            to:'iparan80000@gmail.com',
+            subject: `Message from ${data.name}`,
             html:`         
             <h3>Informations</h3>
             <ul>

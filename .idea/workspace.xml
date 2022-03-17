@@ -2,79 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f67ea2d0-ea7f-483f-ac1f-9a789268539b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/route/contactRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cv-vanish.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/.idea/my-site.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/icon/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/icon/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/icon/telegram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/ivan.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/AboutMe/AboutMe.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/AboutMe/AboutMe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Footer/Footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Footer/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Header/Header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Header/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Profile/Profile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Home/Profile/Profile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/PortfolioContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Resume/Resume.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/ProtfolioContainer/Resume/Resume.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/AboutMe/me.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Home/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Home/profilephoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Home/shape-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Resume/education.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Resume/interests.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Resume/programming-skills.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/Resume/project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/profilephoto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/assets/fonts/shape-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/utilities/Animations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/utilities/ScreenHeading/ScreenHeading.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/utilities/ScreenHeading/ScreenHeadng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/utilities/ScrollService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-site/my-cv/src/utilities/commonUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-cv/src/ProtfolioContainer/ContactMe/ContactMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-cv/src/ProtfolioContainer/ContactMe/ContactMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/contactRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/route/contactRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +55,7 @@
       <workItem from="1646773720047" duration="24917000" />
       <workItem from="1647034195775" duration="60499000" />
       <workItem from="1647464693770" duration="557000" />
+      <workItem from="1647465479284" duration="3337000" />
     </task>
     <servers />
   </component>
@@ -146,7 +79,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/my-cv/src/ProtfolioContainer/AboutMe/AboutMe.js</url>
           <line>51</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
