@@ -86,7 +86,7 @@ const ContactMe = (props) => {
                     <a href="https://t.me/vanlshPetrovich">
                         <img className="icon" src="./icon/telegram.png" alt="Log"></img>
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=100024693853200">
                         <img className="icon" src="./icon/facebook.png" alt="Log"></img>
                     </a>
                 </div>
